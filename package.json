@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "lightbox.js-react": "^0.9.6",
     "waveformjs": "^1.0.1"
   }
 }
