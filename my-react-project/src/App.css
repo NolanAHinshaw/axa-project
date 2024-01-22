@@ -83,8 +83,14 @@ a:hover, a:hover span {
   color: #7593FF;
 }
 
-.image-container:hover {
-  color: #7593FF;
+.image-container path {
+
+  fill: #D9D9D9;
+  transition: fill 0.3s ease;
+}
+
+.image-container:hover path{
+  fill: #7593FF;
 }
 
 .waveform-container {
