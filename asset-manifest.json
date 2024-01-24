@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/axa-project/static/css/main.1e54ad29.css",
+    "main.js": "/axa-project/static/js/main.ad99cb15.js",
+    "static/js/787.6cd1338a.chunk.js": "/axa-project/static/js/787.6cd1338a.chunk.js",
+    "static/media/LosingControlMaster.mp3": "/axa-project/static/media/LosingControlMaster.32bf48e184b272b7e2bf.mp3",
+    "static/media/HeaderBG.png": "/axa-project/static/media/HeaderBG.edab73e69173608f35e0.png",
+    "static/media/LosingControlBG.png": "/axa-project/static/media/LosingControlBG.47a621a57203be1a5a80.png",
+    "static/media/MenuBG.png": "/axa-project/static/media/MenuBG.367a76564f499d838dad.png",
+    "static/media/OceanWave.png": "/axa-project/static/media/OceanWave.98f01308adb96326dd03.png",
+    "static/media/MainPhoto.png": "/axa-project/static/media/MainPhoto.a70ae154975f53de456a.png",
+    "static/media/portrait.png": "/axa-project/static/media/portrait.e0e2102ad26143ef23e5.png",
+    "static/media/Logo.png": "/axa-project/static/media/Logo.d447f116e943cf6c9d20.png",
+    "static/media/ningning.png": "/axa-project/static/media/ningning.544d17623f8cd18e1ec4.png",
+    "static/media/seulgi.png": "/axa-project/static/media/seulgi.2c3c61ad7a63df6a835a.png",
+    "static/media/AA.png": "/axa-project/static/media/AA.3f4974d4457fb5feb725.png",
+    "index.html": "/axa-project/index.html",
+    "static/media/email.svg": "/axa-project/static/media/email.76c075aeefc85c78d608931653c2769c.svg",
+    "main.1e54ad29.css.map": "/axa-project/static/css/main.1e54ad29.css.map",
+    "main.ad99cb15.js.map": "/axa-project/static/js/main.ad99cb15.js.map",
+    "787.6cd1338a.chunk.js.map": "/axa-project/static/js/787.6cd1338a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e54ad29.css",
+    "static/js/main.ad99cb15.js"
+  ]
+}
