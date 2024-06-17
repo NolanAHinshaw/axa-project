@@ -12,7 +12,7 @@
   "dependencies": {
     "@mui/icons-material": "^5.14.9",
     "@strapi/plugin-i18n": "4.11.2",
-    "@strapi/plugin-users-permissions": "4.11.2",
+    "@strapi/plugin-users-permissions": "4.24.2",
     "@strapi/strapi": "4.11.2",
     "better-sqlite3": "8.0.1"
   },
